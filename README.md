@@ -1,46 +1,23 @@
-# Projekti im
+﻿# Projekti im
 
 A mobile application built with Expo, React Native, and Expo Router.
 
 ## Requirements
-
-* Node.js 22.13+ or 24.x
-* Expo Go on your mobile device
-* npm
+- Node.js 22.13+ or 24.x
+- Expo Go
+- npm
 
 ## Installation
-
-```bash
-npm install
-```
+Run: npm install
 
 ## Run the Application
-
-Start the Expo development server:
-
-```bash
-npx expo start
-```
-
-To run the application in a web browser:
-
-```bash
-npx expo start --web
-```
+Run on mobile: npx expo start
+Run on web: npx expo start --web
 
 Scan the QR code with Expo Go to open the application on your phone.
 
 ## Technologies
-
-* React Native
-* Expo
-* Expo Router
-* TypeScript
-
-## Git
-
-Check the commit history:
-
-```bash
-git log --oneline
-```
+- React Native
+- Expo
+- Expo Router
+- TypeScript
